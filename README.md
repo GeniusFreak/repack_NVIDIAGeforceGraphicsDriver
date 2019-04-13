@@ -70,6 +70,8 @@ Modified:
 
 #### Windows 10 DCH Driver
 
+*Require [enabling sideload apps](https://www.windowscentral.com/sites/wpcentral.com/files/styles/xlarge/public/field/image/2016/11/sideload-apps-option.jpg?itok=xhFWiLou)
+
 Components:
 
 - Same as Windows 10 Standard Driver
