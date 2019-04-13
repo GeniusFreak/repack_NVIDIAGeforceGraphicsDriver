@@ -110,3 +110,4 @@ Modified:
 
 To keep this driver maintenance, click the below donate button (PayPal)
 
+[![Foo](https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VK8CDPFUMCYPN&source=url)
