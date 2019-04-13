@@ -4,6 +4,10 @@ Blog: http://puresoftapps.blogspot.com/2019/01/nvidia-graphics-driver-mod-2019-1
 
 Download: https://github.com/alanfox2000/repack_NVIDIAGeforceGraphicsDriver/releases
 
+Dolby Home Theater v4: https://github.com/alanfox2000/repack_NVIDIAGeforceGraphicsDriver/raw/master/Extra/DolbyHomeTheater.rar
+
+Dolby Advanced Audio v2
+https://github.com/alanfox2000/repack_NVIDIAGeforceGraphicsDriver/raw/master/Extra/DolbyAdvancedAudio.rar
 
 #### Windows 10 Standard Driver
 
