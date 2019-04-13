@@ -2,7 +2,7 @@
 
 Blog: http://puresoftapps.blogspot.com/2019/01/nvidia-graphics-driver-mod-2019-10-01.html
 
-Download: https://github.com/alanfox2000/repack_dotNetAppx/releases
+Download: https://github.com/alanfox2000/repack_NVIDIAGeforceGraphicsDriver/releases
 
 
 #### Windows 10 Standard Driver
