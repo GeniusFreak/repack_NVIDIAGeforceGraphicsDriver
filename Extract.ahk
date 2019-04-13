@@ -1,4 +1,9 @@
 ﻿; 
+; Script by alanfox2000
+;
+; https://raw.githubusercontent.com/alanfox2000/repack_NVIDIAGeforceGraphicsDriver/master/Extract.ahk
+;
+;
 
 #SingleInstance Force
 #NoEnv
