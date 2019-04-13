@@ -41,18 +41,29 @@ Modified:
 
 - Apply TweakForce Xtreme-G Registry Modification on INF:
 
-Paletted Textures In Video Memory 
-Render Quality Flags 
-Target Flush Count 
-Texture Clamp Behavior 
-Texture LOD Bias 
-Use Cached PCI Mappings 
-Texture Memory Space 
-Downloaded Memory Space 
-Texture Precache 
-UMA Fast Frame Buffering 
-Main 3D rendering 
-Triple Buffering
+  - Paletted Textures In Video Memory 
+  
+  - Render Quality Flags 
+  
+  - Target Flush Count 
+  
+  - Texture Clamp Behavior 
+  
+  - Texture LOD Bias 
+  
+  - Use Cached PCI Mappings 
+  
+  - Texture Memory Space 
+  
+  - Downloaded Memory Space 
+  
+  - Texture Precache 
+  
+  - UMA Fast Frame Buffering 
+  
+  - Main 3D rendering 
+  
+  - Triple Buffering
 
 
 ---------------------------------------------------------
