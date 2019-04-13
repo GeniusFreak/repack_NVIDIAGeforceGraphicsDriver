@@ -86,7 +86,7 @@ Modified:
 
 ---------------------------------------------------------
 
-#### Windows 7/8.1 Standard Driver
+#### Windows 7/8 Standard Driver
 
 Components:
 
