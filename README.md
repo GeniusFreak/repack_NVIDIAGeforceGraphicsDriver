@@ -5,7 +5,7 @@ Blog: http://puresoftapps.blogspot.com/2019/01/nvidia-graphics-driver-mod-2019-1
 Download: https://github.com/alanfox2000/repack_dotNetAppx/releases
 
 
-#### Windows 10 Legacy Driver
+#### Windows 10 Standard Driver
 
 Components:
 
@@ -61,11 +61,11 @@ Triple Buffering
 
 Components:
 
-- Same as Windows 10 Legacy Driver
+- Same as Windows 10 Standard Driver
 
 Modified:
 
-- Same as Windows 10 Legacy Driver
+- Same as Windows 10 Standard Driver
 
 - Automatically offline install NVIDIA Control Panel UWP app
 
@@ -75,7 +75,7 @@ Modified:
 
 ---------------------------------------------------------
 
-#### Windows 7/8.1 Legacy Driver
+#### Windows 7/8.1 Standard Driver
 
 Components:
 
@@ -89,7 +89,7 @@ Components:
 
 Modified:
 
-- Same as Windows 10 Legacy Driver
+- Same as Windows 10 Standard Driver
 
 
 
