@@ -21,6 +21,8 @@ Components:
 
 - Update Core
 
+- NGXCore
+
 - PPC
 
 Modified:
@@ -101,6 +103,8 @@ Components:
 - HD Audio Driver
 
 - PhysX System Software
+
+- NGXCore
 
 - Update Core
 
