@@ -80,7 +80,15 @@ Require [enabling sideload apps](https://www.windowscentral.com/sites/wpcentral.
 
 Components:
 
-- Same as Windows 10 Standard Driver
+- Graphics Driver
+
+- HD Audio Driver
+
+- PhysX System Software
+
+- Update Core
+
+- PPC
 
 Modified:
 
