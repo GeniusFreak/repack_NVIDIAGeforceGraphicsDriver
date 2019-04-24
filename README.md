@@ -41,6 +41,8 @@ Modified:
 
 - Include a Utility (AutoHotkey Script) which allow selecting installation switches and support automatic installing unsigned driver
 
+- Support add Hardware ID in INF
+
 - Add Dolby Digital Format on HDMI output ("NVIDIA Output" Sound Property -> Advanced Tab -> Default Format: Dolby Digital)
 
 - Add Dolby Home Theater v4 and Dolby Advanced Audio v2 support 
